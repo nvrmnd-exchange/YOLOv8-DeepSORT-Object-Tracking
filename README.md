@@ -5,7 +5,7 @@ YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 
 - Clone the repository
 ```
-git clone https://github.com/nvrmnd-exchange/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/kavya-pb/YOLO-Object-Analysis.git
 ```
 - Goto the cloned folder.
 ```
@@ -54,7 +54,8 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 ### RESULTS
 
 #### Vehicles Detection, Tracking and Counting 
-![Demo](./images/demo.png)
+![](./figure\figure1.png)
+
 
 #### Vehicles Detection, Tracking and Counting
 
