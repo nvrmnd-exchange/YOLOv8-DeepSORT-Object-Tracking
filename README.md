@@ -54,7 +54,7 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 ### RESULTS
 
 #### Vehicles Detection, Tracking and Counting 
-![](./figure\figure1.png)
+![](./figure/figure4.png)
 
 
 #### Vehicles Detection, Tracking and Counting
