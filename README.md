@@ -7,6 +7,7 @@ YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 
 [`Github Repo Link`](https://github.com/nvrmnd-exchange/YOLOv8-DeepSORT-Object-Tracking.git)
 
+lgit clone https://github.com/nvrmnd-exchange/YOLOv8-DeepSORT-Object-Tracking.git
 ```
 - Goto the cloned folder.
 ```
@@ -17,6 +18,7 @@ cd YOLOv8-DeepSORT-Object-Tracking
 pip install -r requirements.txt
 
 ```
+
 - Setting the Directory.
 ```
 cd ultralytics/yolo/v8/detect
@@ -59,4 +61,11 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 #### Vehicles Detection, Tracking and Counting
 
 ![](./figure/figure3.png)
+
+### Watch the Complete Step by Step Explanation
+
+- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=9jRRZ-WL698)
+
+
+[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/9jRRZ-WL698/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=9jRRZ-WL698))
 
